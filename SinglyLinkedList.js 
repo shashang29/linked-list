@@ -1,4 +1,4 @@
-// add a method insert() to the linked list that adds a node to the specified index.
+
 
 class LinkedList {
   constructor(value) {
@@ -73,7 +73,7 @@ myLinkedList.prepend(1)
 myLinkedList.insert(2, 99)
 myLinkedList.remove(3); 
 myLinkedList.printList()
-// myLinkedList.insert(20, 88)
+myLinkedList.insert(20, 88)
 
 
 
